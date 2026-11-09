@@ -1,0 +1,22 @@
+PUT YOUR PHOTOS IN THIS FOLDER
+==============================
+
+Save your photos here with these exact names. The website looks for them by name.
+All three are optional: if one is missing, the website shows a plain green and gold
+plate in its place, so nothing looks broken.
+
+1. portrait.jpg
+   A portrait of you. It appears on the Home page profile card and on the About page.
+   A clear photo taken in daylight is best. Tall (portrait) shape, at least 900 pixels wide.
+
+2. fieldwork.jpg
+   A photo of your work: an interview, a visit, a workshop, a burial site,
+   or a record you are allowed to show. It appears in the dark section on the Home page.
+   Tall (portrait) shape, at least 1200 pixels wide.
+
+3. hero.jpg
+   The wide photo behind the big headline on the Home page. A landscape shot works best:
+   family land, a town, a ceremony, or you at work. At least 1600 pixels wide.
+   Keep the left side of the photo calm, because the headline sits over it.
+
+To reload after adding a photo: press Ctrl + Shift + R on the page.
